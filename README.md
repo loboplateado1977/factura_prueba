@@ -1,2 +1,2 @@
-# factura_prueba
-primer tp
+# factura
+Ejemplo de modelado implementado en Java
